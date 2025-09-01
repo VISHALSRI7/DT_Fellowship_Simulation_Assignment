@@ -17,7 +17,7 @@ This wasn’t just a consulting task — it was a challenge to **think like a fo
 
 ## 🧠 Contents
 
-### 1. [`assignment.md`](./assignment.md)
+### 1. [`DT Fellowship Simulation Assignment.pdf`]()
 - Full write-up of the simulation
 - Includes:
   - Simulated founder interview
