@@ -1,7 +1,7 @@
 # DT Fellowship Simulation – Growth Consultant Assignment 🚀
 
 **Assignment Title:** Signal to Strategy – Boardroom Thinking for MSME Growth  
-**Candidate Name:** Bhoomi Gupta  
+**Candidate Name:** Vishal Srivastav
 **Role Applied:** Growth Consultant  
 **Submission Type:** AI-assisted growth readiness simulation with spreadsheet tracker
 
