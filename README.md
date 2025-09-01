@@ -9,28 +9,28 @@
 
 ## 📌 Overview
 
-This repository contains my completed assignment for the **DT Fellowship Simulation**, where I stepped into the role of a **Growth Consultant** helping an MSME founder unlock growth through system thinking, reflection, and experimentation.
-
-This wasn’t just a consulting task — it was a challenge to **think like a founder**, design clarity in chaos, and treat data not just as reporting, but as direction.
+This repository contains my completed assignment for the DT Fellowship Simulation, where I stepped into the role of a Growth Consultant helping an MSME founder unlock growth through systems thinking, reflection, and lean experimentation.
+- This was not just about consulting on paper — it was about:
+- Thinking like a founder navigating bottlenecks
+- Designing clarity in chaos
+- Treating data not just as reporting, but as direction
 
 ---
 
 ## 🧠 Contents
 
 ### 1. [`DT Fellowship Simulation Assignment.pdf`]()
-- Full write-up of the simulation
-- Includes:
-  - Simulated founder interview
-  - Prompt design for AI-based diagnosis
+- Full write-up of the simulation, including:
+  - Simulated founder transcript & reflective diagnosis
+  - AI-prompt design for mindset, team, and market gaps
   - Growth Readiness Scorecard (GRS)
-  - Strategic Summary (Reflection)
+  -Strategic summary & learnings
 
 ### 2. [`Growth_Readiness_Scorecard.xlsx`](./Growth_Readiness_Scorecard.xlsx)
-- A live spreadsheet logic tool
-- Built using spreadsheet formulas + logic for tracking growth bottlenecks across:
-  - Founder mindset
-  - Team & process capability
-  - Market/customer alignment
+A live spreadsheet tool to track growth bottlenecks with simple formulas and logic across:
+- Founder mindset
+- Team & process capability
+- Market & customer alignment
 
 ---
 
