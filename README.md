@@ -19,7 +19,7 @@ This repository contains my completed assignment for the DT Fellowship Simulatio
 
 ## 🧠 Contents
 
-### 1. [`DT Fellowship Simulation Assignment.pdf`]()
+### 1. [`DT_Fellowship_Simulation_Assignment.pdf`](./DT_Fellowship_Simulation_Assignment.pdf)
 - Full write-up of the simulation, including:
   - Simulated founder transcript & reflective diagnosis
   - AI-prompt design for mindset, team, and market gaps
