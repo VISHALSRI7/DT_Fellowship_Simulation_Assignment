@@ -1,7 +1,7 @@
 # DT Fellowship Simulation – Growth Consultant Assignment 🚀
 
 **Assignment Title:** Signal to Strategy – Boardroom Thinking for MSME Growth  
-**Candidate Name:** Vishal Srivastav
+**Candidate Name:** Vishal Srivastav 
 **Role Applied:** Growth Consultant  
 **Submission Type:** AI-assisted growth readiness simulation with spreadsheet tracker
 
@@ -47,8 +47,8 @@ This exercise taught me how to:
 
 ## 📅 Timeline
 
-- **Round 1 Completed:** 11 July 2025  
-- **Assignment Deadline:** 12 July 2025, 2 PM  
+- **Round 1 Completed:** 31 August 2023 
+- **Assignment Deadline:** 1 September 2025, 5 PM  
 - **Submission Format:** GitHub + Google Form
 
 ---
